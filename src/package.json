@@ -9,6 +9,7 @@
   "author": "Fabio Rocha <frock81@yahoo.com.br>",
   "license": "ISC",
   "dependencies": {
-    "html5-boilerplate": "^7.2.0"
+    "html5-boilerplate": "^7.2.0",
+    "sass": "^1.22.10"
   }
 }

@@ -97,6 +97,31 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+:root {
+  /* Colors */
+  --color0: #222222;
+  --color1: #2e1760;
+  --color2: #666a86;
+  --color3: #969a97;
+  --color4: #f7f7f2;
+
+  /* Fonts */
+  --font0: 'Roboto', sans-serif;;
+  --font1: Lucida Sans Typewriter;
+}
+
+div.header {
+  background-color: var(--color1);
+  padding: 1.2em;
+}
+
+a.logo {
+  text-decoration: none;
+  color: var(--color4);
+  font-variant: small-caps;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+}
 
 /* ==========================================================================
    Helper classes
