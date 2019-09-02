@@ -106,8 +106,7 @@ textarea {
   --color4: #f7f7f2;
 
   /* Fonts */
-  --font0: 'Roboto', sans-serif;;
-  --font1: Lucida Sans Typewriter;
+  --font0: 'Roboto', sans-serif;
 }
 
 div.header {
@@ -119,7 +118,7 @@ a.logo {
   text-decoration: none;
   color: var(--color4);
   font-variant: small-caps;
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--font0);
   font-size: 2em;
 }
 
