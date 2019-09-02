@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fabio Rocha <frock81@yahoo.com.br>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "html5-boilerplate": "^7.2.0"
+  }
 }
