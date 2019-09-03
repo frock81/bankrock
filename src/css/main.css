@@ -109,7 +109,7 @@ textarea {
   --font0: 'Roboto', sans-serif;
 }
 
-div.header {
+div.navbar {
   background-color: var(--color1);
   padding: 1.2em;
 }
